@@ -1,0 +1,26 @@
+Note:you need to ALWAYS configure whenever you open Application.exe as explained earlier.
+
+1) press Ctrl+R
+Select the customer by typing in the blinking box from the list provided
+Note : customer name is case sensitive
+then click ok 
+Now, the Corresponding UID lists will be fetched
+
+2) Select image testing radio button situated in the leftmost section
+press Ctrl+R
+Browse to the UID image file that you want to test
+(The folder " Final/Image Database " contains sample images for testing)
+then click ok; The result will be displayed in tab "ocr result"
+Note: for database correction, the UID should be present in fetched list
+
+3) To Change Customer name,
+Select database testing radio button situated in the leftmost section
+then follow instructions as mentioned in (1) above
+
+4) connect the usb webcam (recommended: iball face2face C8.0,laptop inbuilt webcam,etc)
+Select "usb webcam process" radio button situated in the leftmost section
+make sure that "cam on" button is switched on
+press Ctrl+R
+The live tab will display data from camera in real-time
+Click "Capture" button
+press Ctrl+R; The result will be displayed in tab "ocr result"

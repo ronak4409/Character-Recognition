@@ -1,0 +1,23 @@
+After downloading, Run the file:  LVRTE2011f3std.exe
+
+press OK
+
+make sure both the options are checked
+
+Browse to the folder where you want the unzipped temporaray files
+
+click unzip
+
+after unzipping is complete, click ok when prompted
+
+click YES to allow exe file to run
+
+press NEXT
+Select installation Folder
+press NEXT
+press NEXT
+I recommend you to uncheck the option
+press NEXT
+Accept the agreement
+press NEXT
+press NEXT

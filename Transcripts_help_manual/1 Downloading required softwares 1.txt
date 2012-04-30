@@ -1,0 +1,17 @@
+for help on System Requirements, visit the following link:
+
+Labview Run Time Engine
+
+http://joule.ni.com/nidu/cds/view/p/id/2534/lang/en
+
+
+
+
+---------------------------------------------------------------------------
+
+
+
+
+Vision Development module Run Time
+
+http://joule.ni.com/nidu/cds/view/p/id/2835/lang/en

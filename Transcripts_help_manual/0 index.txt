@@ -1,0 +1,7 @@
+Ok, now I am dividing this screencast into the following sections
+1)Downloading required softwares
+2)Installing these softwares
+3)Downloading project code from GitHub
+4)Configuring the code
+5)Using the code
+6)Explanation of GUI

@@ -1,0 +1,19 @@
+After downloading, unzip the file:  Vision Run-Time 2011 SP1.zip
+
+Go to the unzipped folder
+
+Run:  setup.exe
+
+click YES to allow exe file to run
+
+press NEXT
+Select : install this product for evaluation
+press NEXT
+press NEXT
+I recommend you to uncheck the option
+press NEXT
+Accept the agreement
+press NEXT
+press NEXT
+
+

@@ -1,0 +1,25 @@
+Goto the following link:
+https://github.com/ronak4409/Character-Recognition
+
+click : downloads 
+select: download as zip
+
+After downloading, unzip the file
+
+Go to the unzipped folder
+
+Browse to the file : Builds/BE/main/Application.exe
+This file is the main GUI
+
+Browse to the file : Builds/BE/main/data/CYL LIST.csv
+This file is tab-separated Database file
+It can be opened in Microsoft excel as well as Notepad 
+
+Browse to the file : Builds/BE/main/data/NI VISION FONT ke CHARACTER SET  file.abc
+This file is Character set file that contains trained characters
+It can be opened in Vision development module(Vision Assistant)
+
+Browse to the folder : Final/Image Database
+This folder contains sample images for testing
+
+

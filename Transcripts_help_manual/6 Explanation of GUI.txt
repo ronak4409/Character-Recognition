@@ -1,0 +1,25 @@
+left section:
+select options: to run a particular mode
+image feature: features of processed image (for debugging); stop button(not used)
+
+top section:
+cam on button:to enable live display from camera
+clipboard has an image indicator:for debugging
+height less than 1cm indicator: refers to character height(green when ON) for debugging 
+
+center section:
+com port: for hardware interfacing
+LIVE: wired camera display real-time
+select image:for image testing and configuration
+image: display selected or captured image
+gray,invert,crop: not used
+thresh-mult: display processed image
+ocr result: display segmented useful image with OCR features and recognised UID
+
+right section:
+cust list: contains list of fetched data(customer list,selected customer UID list)
+cyl list: Cyl UID list with more details
+Weightage array: database lookup calculatons (for debugging)
+
+bottom section:
+plot of mean vertical profile: for Dynamic ROI(Region of interest) calculation

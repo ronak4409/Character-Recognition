@@ -1,0 +1,21 @@
+Open the file : Builds/BE/main/Application.exe
+(This file is the main GUI)
+
+On opening Application.exe, a file prompt will pop up
+You need to Browse to the file : Builds/BE/main/data/CYL LIST.csv
+(This file is tab-separated Database file)
+
+On selecting the database file, All the Customer lists will be fetched
+
+press the stop icon below the menu bar 
+
+go to tab: select image
+
+select database path and character set path at bottom-right section of tab
+
+Note:you need to configure this always whenever you open Application.exe
+These configuration settings are not saved.
+
+
+
+
